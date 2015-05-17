@@ -1,0 +1,20 @@
+{
+  "name": "react_tut",
+  "version": "0.0.0",
+  "authors": [
+    "nharsch <nigelharsch@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "~2.1.4",
+    "bootstrap": "~3.3.4",
+    "react": "~0.13.3"
+  }
+}
